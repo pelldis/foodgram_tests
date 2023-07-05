@@ -1,4 +1,5 @@
-from backend.foodgram import settings
+# from backend.foodgram import settings
+from django.conf import settings
 
 
 class TestSettings:
